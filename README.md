@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hongjingxu
 - 👀 I’m interested in self-learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on excel VBA automation project
+- 🌱 I’m currently learning machgine learning
+- 💞️ I’m looking to collaborate on AI project
 - 📫 How to reach me, just ping me
 
 <!---
